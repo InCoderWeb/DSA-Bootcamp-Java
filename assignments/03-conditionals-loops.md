@@ -23,24 +23,24 @@
 19. Curved Surface Area Of Cylinder 👍
 20. Total Surface Area Of Cube 👍
 21. Fibonacci Series In Java Programs 👍
-22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
-23. Input a number and print all the factors of that number (use loops).
+22. [Subtract the Product and Sum of Digits of an Integer 👍](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+23. Input a number and print all the factors of that number (use loops). 👍
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+(HINT: while loop) 👍
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
-26. Addition Of Two Numbers
+all. 👍
+26. Addition Of Two Numbers 👍
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
-6. Calculate Commission Percentage
-7. Power In Java
-8. Calculate Depreciation of Value
-9. Calculate Batting Average
+1. Factorial Program In Java 👍
+2. Calculate Electricity Bill 👍
+3. Calculate Average Of N Numbers 👍
+4. Calculate Discount Of Product 👍
+5. Calculate Distance Between Two Points  👍
+6. Calculate Commission Percentage 👍
+7. Power In Java 👍
+8. Calculate Depreciation of Value 👍
+9. Calculate Batting Average 👍
 10. Calculate CGPA Java Program
 11. Compound Interest Java Program
 12. Calculate Average Marks
